@@ -1,0 +1,5 @@
+The time elapse of epoch 010
+top_3||NDCG: 0.1429	AP: 0.1315	PRE: 0.059	Recall: 0.1757
+top_5||NDCG: 0.1805	AP: 0.1527	PRE: 0.053	Recall: 0.2657
+top_7||NDCG: 0.1994	AP: 0.1613	PRE: 0.046	Recall: 0.3201
+top_10||NDCG: 0.2131	AP: 0.1665	PRE: 0.036	Recall: 0.3649

@@ -1,0 +1,15 @@
+The time elapse of epoch 010
+top_3||NDCG: 0.1429	AP: 0.1315	PRE: 0.059	Recall: 0.1757
+top_5||NDCG: 0.1573	AP: 0.1393	PRE: 0.042	Recall: 0.2118
+top_7||NDCG: 0.1644	AP: 0.1425	PRE: 0.033	Recall: 0.2325
+top_10||NDCG: 0.1853	AP: 0.1498	PRE: 0.030	Recall: 0.3039
+The time elapse of epoch 020
+top_3||NDCG: 0.1429	AP: 0.1315	PRE: 0.059	Recall: 0.1757
+top_5||NDCG: 0.1573	AP: 0.1393	PRE: 0.042	Recall: 0.2118
+top_7||NDCG: 0.1644	AP: 0.1425	PRE: 0.033	Recall: 0.2325
+top_10||NDCG: 0.1853	AP: 0.1498	PRE: 0.030	Recall: 0.3039
+The time elapse of epoch 030
+top_3||NDCG: 0.1429	AP: 0.1315	PRE: 0.059	Recall: 0.1757
+top_5||NDCG: 0.1573	AP: 0.1393	PRE: 0.042	Recall: 0.2118
+top_7||NDCG: 0.1644	AP: 0.1425	PRE: 0.033	Recall: 0.2325
+top_10||NDCG: 0.1853	AP: 0.1498	PRE: 0.030	Recall: 0.3039

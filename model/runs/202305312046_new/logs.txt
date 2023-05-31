@@ -1,0 +1,25 @@
+The time elapse of epoch 010
+top_3||NDCG: 0.5671	AP: 0.5545	PRE: 0.201	Recall: 0.6031
+top_5||NDCG: 0.5862	AP: 0.5653	PRE: 0.130	Recall: 0.6492
+top_7||NDCG: 0.5962	AP: 0.5697	PRE: 0.097	Recall: 0.6782
+top_10||NDCG: 0.6064	AP: 0.5735	PRE: 0.071	Recall: 0.7123
+The time elapse of epoch 020
+top_3||NDCG: 0.8259	AP: 0.8211	PRE: 0.280	Recall: 0.8397
+top_5||NDCG: 0.8322	AP: 0.8245	PRE: 0.171	Recall: 0.8553
+top_7||NDCG: 0.8363	AP: 0.8263	PRE: 0.124	Recall: 0.8675
+top_10||NDCG: 0.8404	AP: 0.8278	PRE: 0.088	Recall: 0.8809
+The time elapse of epoch 030
+top_3||NDCG: 0.8852	AP: 0.8810	PRE: 0.299	Recall: 0.8972
+top_5||NDCG: 0.8893	AP: 0.8833	PRE: 0.181	Recall: 0.9072
+top_7||NDCG: 0.8921	AP: 0.8845	PRE: 0.131	Recall: 0.9155
+top_10||NDCG: 0.8939	AP: 0.8852	PRE: 0.092	Recall: 0.9213
+The time elapse of epoch 040
+top_3||NDCG: 0.9192	AP: 0.9170	PRE: 0.308	Recall: 0.9253
+top_5||NDCG: 0.9225	AP: 0.9189	PRE: 0.187	Recall: 0.9333
+top_7||NDCG: 0.9229	AP: 0.9190	PRE: 0.133	Recall: 0.9345
+top_10||NDCG: 0.9238	AP: 0.9194	PRE: 0.094	Recall: 0.9377
+The time elapse of epoch 050
+top_3||NDCG: 0.9275	AP: 0.9242	PRE: 0.312	Recall: 0.9372
+top_5||NDCG: 0.9287	AP: 0.9248	PRE: 0.188	Recall: 0.9401
+top_7||NDCG: 0.9292	AP: 0.9250	PRE: 0.134	Recall: 0.9413
+top_10||NDCG: 0.9295	AP: 0.9251	PRE: 0.094	Recall: 0.9423
